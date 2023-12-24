@@ -1,5 +1,4 @@
 
-```
 # TRANSFORMERS: Fine-Tuning GPT-2 for Python Code Generation
 
 🚀 Welcome to the TRANSFORMERS repository, where the magic of Python code generation happens! This experimental project harnesses the power of the GPT-2 model, fine-tuned on a small dataset from Huggingface(🤗) focus on Python programming language patterns. Whether you're battling bugs or seeking a spark of syntactical inspiration, TRANSFORMERS is your co-pilot in the coding journey.
