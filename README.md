@@ -7,7 +7,7 @@
 
 Here's how we're organized:
 
-
+```
 /TRANSFORMERS
 |-- /__pycache__              # Bytecode cache for quicker startup
 |-- /.vscode                  # VSCode workspace settings
@@ -22,7 +22,7 @@ Here's how we're organized:
 |-- README.md                  # The map to this treasure trove
 |-- LICENSE                    # The open scroll of legal text
 |-- requirements.txt           # The alchemist's list of mystical ingredients
-
+```
 
 ## 🛠 Setup
 
